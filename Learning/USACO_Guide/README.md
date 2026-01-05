@@ -5,4 +5,4 @@
 - long long 64 bits enteros -9223372036854775808 a 9223372036854775807 9*10 18
 - short 16 bits 
 
-### Decimales
+
